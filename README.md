@@ -12,13 +12,6 @@ Desenvolvedora Full-Stack em formação, com foco em criar interfaces web acess�
   <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
-## 📈 Estatísticas
-
-<p>
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=soaresrebeca&show_icons=true&theme=one_dark_pro&hide_border=true">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soaresrebeca&layout=compact&langs_count=5&theme=one_dark_pro&hide_border=true">
-</p>
-
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/rebeca-adelaide-3956b7278/">

@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=500&lines=Desenvolvedora+Full-Stack+em+forma%C3%A7%C3%A3o;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;JavaScript+%7C+HTML+%7C+CSS+%7C+MySQL" alt="Typing SVG">
 </a>
 
-# Olá, eu sou a Rebeca Soares 👋
+# Olá, eu sou a Rebeca! 👋
 
 Desenvolvedora Full-Stack em formação, com foco em criar interfaces web acessíveis e bem estruturadas. Atualmente estou cursando Sistemas de Informação e atuo como IT Intern, oferecendo suporte de nível I.
 
